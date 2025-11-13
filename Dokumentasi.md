@@ -73,3 +73,9 @@ rincian dari syntax tersebut adalah sebagai berikut:
 * show-full-ui: Ini adalah sub-perintah yang secara spesifik menginstruksikan Waydroid untuk menampilkan seluruh antarmuka Android, lengkap dengan layar beranda (homescreen), laci aplikasi (app drawer), dan navigasi sistem (seperti tombol kembali, beranda, dan aplikasi terbaru). 
 
 ### Maka Waydroid sudah Terinstall dan sudah dapat digunakan
+
+<img src="/img/img1.png" alt="img1" width="340px" height="214px">
+
+<img src="/img/img2.png" alt="img2" width="340px" height="214px">
+
+Ini adalah bukti bahwa waydroid bisa menggunakan internet dan membuka browser
